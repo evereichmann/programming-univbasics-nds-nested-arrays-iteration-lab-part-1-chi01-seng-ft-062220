@@ -4,5 +4,6 @@ def find_even_values(src)
     [99, 50, 3, 4], 
     [23, 41],
   ]
-  
+  count = 0 
+  while count < array 
 end
