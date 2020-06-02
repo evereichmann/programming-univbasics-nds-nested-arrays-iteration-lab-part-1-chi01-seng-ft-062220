@@ -5,5 +5,8 @@ def find_even_values(src)
     [23, 41],
   ]
   count = 0 
-  while count < array_of_arrays.length 
+  while count < array_of_arrays.length do
+  array_of_arrays.each do |x|
+  x % 2 = 0 
+  puts "#{x}"
 end
